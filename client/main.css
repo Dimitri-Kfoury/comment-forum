@@ -1,0 +1,58 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.signUp-form , .login-form{
+
+display: flex;
+flex-direction: column;
+width: 50%;
+
+
+}
+
+.signUp-link{
+
+margin-top: 50px;
+
+
+}
+
+
+#comments-list {
+
+  list-style: none;
+  padding: 0;
+    
+
+
+}
+
+#comments-list li {
+
+margin-top: 10px;
+background-color: rgba(0, 0, 139, 0.185);
+
+
+}
+
+.form-container {
+
+
+margin-bottom: 5%;
+display: flex;
+flex-direction: column;
+
+
+
+
+}
+
+
+.form-label {
+
+margin-bottom: 1%;
+
+
+}
